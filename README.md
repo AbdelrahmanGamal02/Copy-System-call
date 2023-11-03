@@ -1,7 +1,7 @@
 # Copy-System-call
 Implementation of How to copy content of file into another file
 
-# This algorithm that operating system use to do copy files from location to another location 
+## This algorithm that operating system use to do copy files from location to another location 
 
 1- Acquire input file name
 2- Write Prompt to screen
